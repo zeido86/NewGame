@@ -1,0 +1,56 @@
+ide 1
+
+En sidescroller 2d där målet är att ta sig så långt som möjligt (som en endless runner fast där man själv bestämmer takten).
+man börjar alltid helt utan saker, men allt eftersom man levlar upp har man bättre förutsättningar att klara sig
+
+Fienderna blir gradvis svårare, alternativt fler
+
+avklarade fiender kan tappa material eller vapen som kan Craftas till skydd eller vapen
+-vapen kräver ammo som måste craftas
+-allt som craftas kommer förr eller senare gå sönder, hur länge sakerna håller beror på spelarens lvlSkill. 
+-Tiden stannar inte när man craftar, bullettime används (detta för att man aldrig ska kunna pausa)
+-levla upp för att låsa upp nya blueprints
+-material som finns kvar när man "dör" kan säljas för att köpa blueprints
+-möjlighet att låsa upp skills
+	-Starkare Melee
+	-bättre vapen -rof damage osv
+	-hållbarare vapen
+	-mer hälsa
+	-"luck" (chansen för dodge ökar)
+	-nya meleattacker (unarmed)
+
+-möjlighet att dodga fiendeattacker
+	-animation för detta?
+
+-man måste hela tiden röra sig för att inte hamna längst till vänster i bild (där man dör)
+
+-när fiender är i bild stannar kameran för fight, mellan fighter så kan man samla material och måste dodga hinder
+
+ide 2 
+
+en skeppssimulator. Frakta gods över havet (1800 tals stil). Desto värdefullare gods desto större risk att bli attackerad av pirater
+
+använd resurer för att träna dina mannar, uppgradera skeppet och köpa fler besättningsmän. 
+
+vid lyckad leverans betalas man och dessa pengar används till att köpa dessa uppgraderingar, samt proviant till nästa resa. 
+Större skepp tilllåter mer last
+
+ide 3
+
+ett tjuvspel likt "the sting" men i mer retro stil 
+
+har man rätt verktyg blir det lättare att låsa upp lås (tid det tar) men det går även helt utan. 
+
+man börjar sin karriär som 18 åring, och kan utföra en Heist varje år (om man inte åker fast).
+Målet är att bryta sig in på svårare och svårare ställen utan att åka dit, spendera sin loot på att köpa mer avancerade prylar för att ta sig in på svårare ställen
+
+under ett inbrott kan man ha exempelvis mask och handskar på sig för att dölja fingeravtryck eller inte bli identifierad om man går förbi en säkerhetskamera
+efter avklarat inbrott ökar ens "heat" om man blivit sedd på kamera, lämnat fingeravtryck, blivit sedd av vakt eller liknande, och då kan man välja att stå över ett år för att "heat" ska sjunka
+
+misslyckas man med ett inbrott kan man bli fångad eller dödad (game over), hur vakter och poliser väljer att försöka fånga dig beror på heat och om du bär vapen
+blir du fångad hamnar du ett visst antal år i fängelse, hur länge beror på hur många av dina tidigare brott som kan knytas till dig (fastnat på kamera, lämnat fingeravtryck)
+och om du har använt våld mot tjänsteman
+
+när du blir 70 år är spelet slut eller om du dör innan såklart 
+
+
